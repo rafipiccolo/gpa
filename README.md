@@ -20,9 +20,9 @@ Go into a node project and type the following :
 
     var gpa = require('gpa');
 
-    console.log(gpa('A+'));
+    console.log(gpa('A+')); // show : 17
 
-    console.log(gpa(10));
+    console.log(gpa(10)); // show : C
 
 # Run
 
