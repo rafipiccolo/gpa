@@ -1,14 +1,6 @@
 # Description
 
-This module gives a recapitulative of installed modules for auditing / updating.
-
-Internally it executes :
-- package vulnerabilities : "npm audit --json"
-- package needing update : "npm outdated --json"
-- duplicate content : "npm run jsinspect --reporter json"
-- require tree (internal code)
-- package size : "https://packagephobia.now.sh/ on each module of your package.json"
-- package download count (popularity) : "https://api.npmjs.org/downloads/point/last-month/... on each module of your package.json"
+This module convert gpa between int and string value
 
 # Install
 
