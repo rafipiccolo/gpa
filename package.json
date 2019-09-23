@@ -1,7 +1,7 @@
 {
   "name": "gpa",
-  "version": "1.0.3",
-  "description": "",
+  "version": "1.0.4",
+  "description": "This module convert gpa between int and string value",
   "main": "index.js",
   "scripts": {
     "test": "mocha"

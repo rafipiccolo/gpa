@@ -1,7 +1,7 @@
 var gpa = require('./index.js');
 var assert = require('assert');
 
-describe('check Crontab', function() {
+describe('check gpa', function() {
 
     it('grade to number', function() {
         assert.equal(gpa('A+'), 17);
