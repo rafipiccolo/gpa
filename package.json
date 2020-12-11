@@ -1,19 +1,19 @@
 {
-  "name": "gpa",
-  "version": "1.0.4",
-  "description": "This module convert gpa between int and string value",
-  "main": "index.js",
-  "scripts": {
-    "test": "mocha"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/rafipiccolo/gpa.git"
-  },
-  "author": "Raphael Piccolo",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/rafipiccolo/gpa/issues"
-  },
-  "homepage": "https://github.com/rafipiccolo/gpa#readme"
+    "name": "gpa",
+    "version": "1.0.4",
+    "description": "This module convert gpa between int and string value",
+    "main": "index.js",
+    "scripts": {
+        "test": "mocha"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/rafipiccolo/gpa.git"
+    },
+    "author": "Raphael Piccolo",
+    "license": "ICS",
+    "bugs": {
+        "url": "https://github.com/rafipiccolo/gpa/issues"
+    },
+    "homepage": "https://github.com/rafipiccolo/gpa#readme"
 }
