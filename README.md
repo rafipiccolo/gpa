@@ -22,26 +22,26 @@ Go into a node project and type the following :
 
 # correlation table
 
-|grade | number |
-|----- | ------ |
-|  F-  |  0     |
-|  F   |  1     |
-|  F+  |  2     |
-|  E-  |  3     |
-|  E   |  4     |
-|  E+  |  5     |
-|  D-  |  6     |
-|  D   |  7     |
-|  D+  |  8     |
-|  C-  |  9     |
-|  C   |  10    |
-|  C+  |  11    |
-|  B-  |  12    |
-|  B   |  13    |
-|  B+  |  14    |
-|  A-  |  15    |
-|  A   |  16    |
-|  A+  |  17    |
+| grade | number |
+| ----- | ------ |
+| F-    | 0      |
+| F     | 1      |
+| F+    | 2      |
+| E-    | 3      |
+| E     | 4      |
+| E+    | 5      |
+| D-    | 6      |
+| D     | 7      |
+| D+    | 8      |
+| C-    | 9      |
+| C     | 10     |
+| C+    | 11     |
+| B-    | 12     |
+| B     | 13     |
+| B+    | 14     |
+| A-    | 15     |
+| A     | 16     |
+| A+    | 17     |
 
 edge cases :
 

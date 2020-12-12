@@ -15,5 +15,8 @@
     "bugs": {
         "url": "https://github.com/rafipiccolo/gpa/issues"
     },
-    "homepage": "https://github.com/rafipiccolo/gpa#readme"
+    "homepage": "https://github.com/rafipiccolo/gpa#readme",
+    "devDependencies": {
+        "prettier": "^2.2.1"
+    }
 }
