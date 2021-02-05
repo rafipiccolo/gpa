@@ -1,3 +1,5 @@
+'use strict';
+
 var gpa = require('./index.js');
 var assert = require('assert');
 
