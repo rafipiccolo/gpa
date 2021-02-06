@@ -7,7 +7,7 @@ module.exports = function gpa(grade) {
 
     if (grade.match(/^\d+$/)) {
         return order[grade] || '';
-    } else {
-        return order.indexOf(grade);
     }
+    
+    return order.indexOf(grade);
 };
