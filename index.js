@@ -8,6 +8,6 @@ module.exports = function gpa(grade) {
     if (grade.match(/^\d+$/)) {
         return order[grade] || '';
     }
-    
+
     return order.indexOf(grade);
 };
