@@ -1,5 +1,5 @@
-var gpa = require('./index.js');
-var assert = require('assert');
+let gpa = require('./index.js');
+let assert = require('assert');
 
 describe('check gpa', function () {
     it('grade to number', function () {
